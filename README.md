@@ -1,5 +1,5 @@
-# dotnet-core-web-app-configuration
-Guide to configuring a .NET Core Web Application, including configuration files. For more detailed instructions, see the wiki. Quick reference instructions are below.
+# Configuring a .NET Core Web Application
+Guide to configuring a .NET Core Web Application that uses SASS and ReactJS, including configuration files. For more detailed instructions, see the wiki. Quick reference instructions are below.
 
 ## Quick Start
 1. Create a new .NET Core Web Application.
@@ -17,6 +17,7 @@ Guide to configuring a .NET Core Web Application, including configuration files.
 ## Reference Links
 [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)  
 [npm Package Search](https://npmsearch.com/)  
+[Webpack](https://webpack.js.org/configuration/)  
 [Bootstrap](http://getbootstrap.com/getting-started/)  
 [Bootswatch](https://bootswatch.com/)  
 [SASS](http://sass-lang.com/guide)  
